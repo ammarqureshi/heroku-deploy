@@ -1,0 +1,15 @@
+{
+  "name": "heroku-simple-web-app",
+  "version": "1.0.0",
+  "description": "simple web app to deploy to heroku",
+  "scripts": {
+    "start": "node server.js"
+  },
+    
+    "dependencies":{
+        "express" : "4.13.3"
+    },
+    
+  "author": "ammar",
+  "license": "ISC"
+}
